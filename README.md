@@ -19,7 +19,6 @@ If you notice and bugs or things to you want me to improve on the program, let m
 -All possible operations can be found in the help menu
 
 Google Drive download link (another way to download): https://drive.google.com/file/d/1fNDG3GA7Is_OKG8ub1Y7uyte6eQvwDaK/view?usp=sharing
-
 version 0.1        5/7/25      latest build DV 99.4
 (I will update the link and code in this github page as updates come out)
 
