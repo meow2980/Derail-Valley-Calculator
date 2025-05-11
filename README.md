@@ -5,6 +5,9 @@ It allows for efficent calculations of information like weight, tonnage, length,
 When you have multiple jobs and deliver one you can type "next" you can instantly get the new calculations.
 
 
+
+
+
 I show how to download and use the program in a video with the link https://www.youtube.com/watch?v=FP6yvLd1Ui8  
 
 This is a video on the longer side and I wouldn't recomend watching all of it. If you need help watch specific parts, the start shows to to install and use it, then I show examples.
