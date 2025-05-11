@@ -5,7 +5,6 @@ import java.util.ArrayList;
  * provides the main and job weight
  * This is the primary class that does almost all of the work, and holds almost all of the information
  *
- * @author Aaron G
  * @discord meow2980
  * @version 0.1           (first one, I expect updates)
  * @date 5/10/25
