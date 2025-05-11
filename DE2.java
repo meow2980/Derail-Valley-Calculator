@@ -1,5 +1,4 @@
 /**
- * @author Aaron G
  * @discord meow2980
  * @version 0.1           (first one, I expect updates)
  * @date 5/10/25
