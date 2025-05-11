@@ -22,7 +22,7 @@ I used the java IDE named bluej to build and test it, I would recommend using it
 
 If you notice and bugs or things to you want me to improve on the program, let me know and ill update the program when I have time. If you notice a program breaking bug, let me know ASAP and I will fix the program ASAP.
 
-(There are a few ways to do this, on the video I posted, my discord with the link https://discord.gg/wUWdn3B   or I also belive you can do it in github)
+(There are a few ways to do this, on the video I posted, my discord with the link https://discord.gg/wUWdn3B   or I also believe you can do it in github)
 
 .
 
